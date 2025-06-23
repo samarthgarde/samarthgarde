@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @samarthgarde
-- 👀 I’m interested in learn coding best practices, and find inspiration.
-- 🌱 I’m currently learning GitHub to manage and showcase my engineering projects effectively
-- 💞️ I’m looking to collaborate on on open-source projects and innovative engineering ideas.
-- 📫 How to reach me https://github.com/samarthgarde or email at me samarthgarde007@gmail.com
-- 😄 Pronouns:they
-- ⚡ Fun fact:My first 'Hello, World!' program accidentally crashed my computer
+# 👋 Hi, I'm Samarth Garde
 
-<!---
-samarthgarde007/samarthgarde007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 Cloud & DevOps Enthusiast | Passionate about Automation, Cloud Deployments & CI/CD  
+🚀 Building projects using AWS, Docker, GitHub Actions, and more  
+
+## 🌱 Currently Learning
+- Terraform basics
+- Kubernetes fundamentals
+- Real-world CI/CD pipelines
+
+## 📂 Featured Projects
+- Mushroom Classifier using Streamlit + Docker
+- AWS EC2 Web Server Deployment
+- GitHub Actions CI/CD Demo

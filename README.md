@@ -1,6 +1,6 @@
 ![DevOps image](DevOps.png)
 
-# Hey, I'm Samarth Gard  👩‍💻
+                                       # Hey, I'm Samarth Garde  👩‍💻
 
 ---
 

@@ -1,6 +1,6 @@
 ![DevOps image](DevOps.png)
 
-<p align="center"><b>Hey, I'm Samarth 👩‍💻</b></p>
+<h1 align="center"><b>Hey, I'm Samarth 👩‍💻</b></h1>
 
 ## 🛠️ Skills & Tools
 

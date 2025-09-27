@@ -1,10 +1,6 @@
 ![DevOps image](DevOps.png)
 
-                                        Hey, I'm Samarth 👩‍💻
-
----
-
-🏢 OS Stack:  linux ubuntu alpine centOS
+ Hey, I'm Samarth 👩‍💻
 
 ## 🛠️ Skills & Tools
 

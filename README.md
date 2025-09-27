@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Samarth Garde
+![DevOps image](DevOps.png)
 
-I'm a passionate Cloud & DevOps enthusiast currently exploring technologies like AWS, Docker, Linux, GitHub Actions, and more.
+# Hey, I'm Samarth Gard  👩‍💻
+
+---
 
 🏢 OS Stack:  linux ubuntu alpine centOS
 
@@ -17,22 +19,18 @@ I'm a passionate Cloud & DevOps enthusiast currently exploring technologies like
   🔗 [Live Link](http://your-bucket-name.s3-website.ap-south-1.amazonaws.com)  
   📁 [Repo](https://github.com/samarthgarde/AWS-learning-journal)
 
-- **Dockerized React App on EC2**  
-  ✅ Built Docker image, pushed to DockerHub, deployed on AWS EC2  
-  📁 [Project Steps](https://github.com/samarthgarde/react-docker-deploy)
+- **Dockerized Microservices Web app**  
+  ✅ BuiltSimple web application using frontend+backend+database+Nginx proxy. 
+  📁 [Project Steps](https://github.com/samarthgarde/microservices-app)
 
 - **CI/CD with GitHub Actions + EC2**  
   🚀 Automated testing and deployment for a Node.js app  
   📁 [Repo](https://github.com/samarthgarde/devops-ci-cd-demo)
+
+- 📫 How to reach me samarthgarde007@gmail.com 
 
 ## 📊 GitHub Stats
 
 ![Samarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=samarthgarde&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samarthgarde&layout=compact&theme=radical)
-
-## 📫 Connect with me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/samarthgarde)
-- 📧 samarthgarde007@gmail.com
-

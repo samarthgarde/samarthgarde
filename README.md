@@ -9,7 +9,6 @@
 - 📚 Currently learning: Ansible, Terraform
 
 <h2 align="center">🚀 Projects</h2>
-
 <div align="center">
 
   <table>
@@ -24,7 +23,7 @@
       </td>
       <td>
         <a href="https://github.com/samarthgarde/microservices-app">
-          <h3 align="center">🐳 Dockerized Microservices Web App</h3>
+          <a align="center">🐳 Dockerized Microservices Web App</a>
         </a>
         <p align="center">
           ✅ Built simple web application using frontend + backend + database + Nginx proxy

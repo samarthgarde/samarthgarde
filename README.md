@@ -6,7 +6,7 @@
 | -------------              | -------------                 | --------          |
 | [Automate EC2 Start/Stop with AWS Lambda and EventBridge](https://github.com/samarthgarde/ec2-automation-lambda)| [Microservices web app ](https://github.com/samarthgarde/microservices-app)| [created automated CICD pipeline using jenkins ](https://github.com)
 
-- 📫 How to reach me at: [LinkedIn](https://linkedin.com/in/samarthgarde) | [Email](mailto:samarthgarde007@gmail.com)
+- 📫 How to reach me at:(https://linkedin.com/in/samarthgarde) | (mailto:samarthgarde007@gmail.com)
 - Skills: **Linux, Docker, AWS, GitHub Actions, MySQL, Networking, Shell Scripting**
 ## 📊 GitHub Stats
 

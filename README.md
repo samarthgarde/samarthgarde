@@ -2,7 +2,7 @@
 
 <h1 align="center"><b>Hey, I'm Samarth 👩‍💻</b></h1>
 
-- 🤩 I’m looking to collaborate on AWS and DevOps Projects
+- 🤩 I’m looking to collaborate on **AWS and DevOps Projects**
 
 
 | Terraform/AWS Projects ☁    | Containerization Projects 🦈    | CI/CD Projects 🔗  |

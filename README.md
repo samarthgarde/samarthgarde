@@ -7,7 +7,7 @@
 
 | Terraform/AWS Projects ☁    | Containerization Projects 🦈    | CI/CD Projects 🔗  |
 | -------------               | -------------                   | --------           |
-| [Automate EC2 Start/Stop with AWS Lambda and EventBridge](https://github.com/samarthgarde/ec2-automation-lambda)| [Microservices web app ](https://github.com/samarthgarde/microservices-app)<br>[Flask + PostgreSQL + Docker CRUD REST API](https://github.com/samarthgarde/flask-postgres-docker-crud)| [created automated CICD pipeline using jenkins ](https://github.com)
+| [Automate EC2 Start/Stop with AWS Lambda and EventBridge](https://github.com/samarthgarde/ec2-automation-lambda)| [Microservices web app ](https://github.com/samarthgarde/Docker-projects/tree/main/microservics-app)<br>[Flask + PostgreSQL + Docker CRUD REST API](https://github.com/samarthgarde/Docker-projects/blob/main/flask-app/Dockerfile)| [created automated CICD pipeline using jenkins ](https://github.com)
 
 - 📫 How to reach me at samarthgarde007@gmail.com
 - Skills: **Linux, Docker, AWS, Git/GitHub Actions, MySQL, Networking, Shell Scripting, Kubernetes, CICD**

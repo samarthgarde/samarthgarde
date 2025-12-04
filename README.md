@@ -1,6 +1,7 @@
-![DevOps image](DevOps.png)
+![imagegit](https://user-images.githubusercontent.com/69889600/193552218-0ebf9961-fe69-45bd-98bc-c29771758f59.png)
 
 <h1 align="center"><b>Hey, I'm Samarth 👩‍💻</b></h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthgarde8&label=Profile%20views&color=0e75b6&style=flat" alt="samarthgarde" /> </p>
 
 - 🤩 I’m looking to collaborate on **AWS and DevOps Projects**
 
@@ -12,3 +13,4 @@
 - 📫 How to reach me at samarthgarde007@gmail.com
 - Skills: **Linux, Docker, AWS, Git/GitHub Actions, MySQL, Networking, Shell Scripting, Kubernetes, CICD**
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samarthgarde&" alt="samarthgarde" /></p>

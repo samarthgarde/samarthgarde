@@ -12,8 +12,3 @@
 - 📫 How to reach me at samarthgarde007@gmail.com
 - Skills: **Linux, Docker, AWS, Git/GitHub Actions, MySQL, Networking, Shell Scripting, Kubernetes, CICD**
 
-## 📊 GitHub Stats
-
-![Samarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=samarthgarde&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samarthgarde&layout=compact&theme=radical)

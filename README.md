@@ -8,7 +8,7 @@
 
 | Terraform/AWS Projects ☁    | Containerization Projects 🦈    | CI/CD Projects 🔗  |
 | -------------               | -------------                   | --------           |
-| [Build highly available infrastructure using Terraform](https://github.com/samarthgarde/Terraform-Build-highly-available-infrastructure)| [Microservices web app ](https://github.com/samarthgarde/Docker-projects/tree/main/microservics-app)<br>[Flask + PostgreSQL + Docker CRUD REST API](https://github.com/samarthgarde/Docker-projects/blob/main/flask-app/Dockerfile)| [created automated CICD pipeline using jenkins ](https://github.com)
+| [Build highly available infrastructure using Terraform](https://github.com/samarthgarde/Terraform-Build-highly-available-infrastructure)| [Containerized REST API Application using Flask and PostgreSQL](https://github.com/samarthgarde/Docker-projects/tree/main/flask-app)| [created automated CICD pipeline using jenkins ](https://github.com)
 
 - 📫 How to reach me at samarthgarde007@gmail.com
 - Skills: **Linux, Docker, AWS, Git/GitHub Actions, MySQL, Networking, Shell Scripting, Kubernetes, CICD**

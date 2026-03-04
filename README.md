@@ -1,7 +1,9 @@
 ![imagegit](https://user-images.githubusercontent.com/69889600/193552218-0ebf9961-fe69-45bd-98bc-c29771758f59.png)
 
 <h1 align="center"><b>Hey, I'm Samarth 👩‍💻</b></h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthgarde8&label=Profile%20views&color=0e75b6&style=flat" alt="samarthgarde" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=samarthgarde8&label=Profile%20Views&color=0e75b6&style=flat" alt="samarthgarde8" />
+</p>
 
 - 🤩 I’m looking to collaborate on **AWS and DevOps Projects**
 

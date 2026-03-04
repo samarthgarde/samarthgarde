@@ -25,19 +25,23 @@
 ---
 
 ### 💻 Development Skills  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-- 🤩 I’m looking to collaborate on **AWS and DevOps Projects**
+- 🤝 I’m open to collaborating on **AWS and DevOps Projects**
 
+---
 
-| Terraform/AWS Projects ☁    | Containerization Projects 🦈    | CI/CD Projects 🔗  |
-| -------------               | -------------                   | --------           |
-| [Build highly available infrastructure using Terraform](https://github.com/samarthgarde/Terraform-Build-highly-available-infrastructure)| [Containerized REST API Application using Flask and PostgreSQL](https://github.com/samarthgarde/Docker-projects/tree/main/flask-app)| [created automated CICD pipeline using jenkins ](https://github.com)
+## 🚀 Featured Projects  
 
-- 📫 How to reach me at samarthgarde007@gmail.com
+| ☁️ Terraform / AWS Projects | 🐳 Containerization Projects | 🔁 CI/CD Projects |
+|-----------------------------|-----------------------------|------------------|
+| [Build Highly Available Infrastructure using Terraform](https://github.com/samarthgarde/Terraform-Build-highly-available-infrastructure) | [Containerized REST API Application using Flask & PostgreSQL](https://github.com/samarthgarde/Docker-projects/tree/main/flask-app) | [Automated CI/CD Pipeline using Jenkins](https://github.com) |
 
-- Skills: **Linux, Docker, AWS, Git/GitHub Actions, MySQL, Networking, Shell Scripting, Kubernetes, CICD**
+---
+
+## 📫 Contact Me  
+
+📧 **Email:** [samarthgarde007@gmail.com](mailto:samarthgarde007@gmail.com)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samarthgarde&" alt="samarthgarde" /></p>

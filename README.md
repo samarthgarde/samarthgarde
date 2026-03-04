@@ -11,6 +11,7 @@
 | [Build highly available infrastructure using Terraform](https://github.com/samarthgarde/Terraform-Build-highly-available-infrastructure)| [Containerized REST API Application using Flask and PostgreSQL](https://github.com/samarthgarde/Docker-projects/tree/main/flask-app)| [created automated CICD pipeline using jenkins ](https://github.com)
 
 - 📫 How to reach me at samarthgarde007@gmail.com
+
 - Skills: **Linux, Docker, AWS, Git/GitHub Actions, MySQL, Networking, Shell Scripting, Kubernetes, CICD**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samarthgarde&" alt="samarthgarde" /></p>
